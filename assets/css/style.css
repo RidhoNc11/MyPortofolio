@@ -1,0 +1,29 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background-color: whitesmoke;
+    color: black;
+  }
+  .text-nav {
+    font-weight: bold;
+    color: white;
+}
+
+.img-about {
+    border-radius: 50px;
+}
+
+.mybtn {
+    width: 100px;
+    height: 50px;
+    background-color: lightblue;
+    color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
